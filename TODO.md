@@ -1,0 +1,3 @@
+- add unittests
+- more pythonic
+
