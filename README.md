@@ -1,6 +1,6 @@
 # pyobj_Q
 #### 简单介绍:
->[pyobj_Q](https://github.com/xmdevops/pyobj_Q) 主要用于对任意PY对象构造动态条件查询判断,支持无限级递归,完全兼容Djago Q语法,兼容PY2.6+
+>[pyobj_Q](https://github.com/xmdevops/pyobj_Q) 主要用于对任意PY对象构造动态条件查询判断,支持无限级递归,完全兼容Djago Q语法,兼容PY2.7+
 
 ***
 
